@@ -1,0 +1,14 @@
+streamlit
+openai
+groq
+numpy
+pandas
+matplotlib
+seaborn
+sentence-transformers
+nltk
+rouge
+plotly
+python-dotenv
+scikit-learn
+requests
